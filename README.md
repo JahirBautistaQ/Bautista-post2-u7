@@ -237,7 +237,7 @@ Se incluyen capturas de:
 
 ##  Autor
 
-Jahir Duran
+Jahir Bautista
 Ingeniería de Sistemas - 2026
 
 ---
